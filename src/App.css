@@ -1,0 +1,248 @@
+.Main{
+  background-color: rgb(34, 32, 32);
+}
+.Navbar{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 400px;
+  margin-right: 400px;
+  font-family: inherit;
+  height: 60px;
+}
+.a{
+  text-decoration: none;
+  color: white;
+}
+.Workoutplanner{
+  background-image: url(/src/Images/Weightlifting-vs-Powerlifting.png);
+  margin-left: 500px;
+  width: 600px;
+  height: 300px;
+
+}
+.b{
+  margin-left: 200px;
+  color: white;
+}
+.weekdays, .weeklygoals{
+  background-color: rgb(34, 32, 32);
+}
+.c{
+  margin-left: 150px;
+}
+.d{
+  color: white;
+  text-align: center;
+}
+.footer{
+    background-color: rgb(53, 52, 52);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.e{
+  display: flex;
+  align-items: center;
+  margin-left: 550px;
+}
+.f{
+  margin-left: 100px;
+  text-decoration: none;
+  color: gold;
+  font-weight: bolder;
+}
+.Login{
+  background-image: url(/src/Images/bg\ 1.png);
+}
+.sup{
+  border: 10px solid white;
+  margin-left: 450px;
+  background-color: white;
+
+}
+.yo{
+  margin-left: 60px;
+}
+.login-btn{
+  margin-left: 110px;
+  background-color: rgb(34, 32, 32);
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 12px;
+}
+.new{
+  display: flex;
+  align-items: center;
+  margin-left: 550px;
+  font-family:cursive;
+}
+.signup{
+  border: 10px solid white;
+  background-color: white;
+  margin-left: 350px;
+  width: 400px;
+
+}
+.yoo{
+  margin-left: 110px;
+}
+.reg-btn{
+  margin-left: 150px;
+  background-color: rgb(34, 32, 32);
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 12px;
+
+}
+.q{
+  background-color: rgb(229, 78, 78);
+  width: 300px;
+  margin-left: 2px;
+}
+.w{
+  margin-left: 2px;
+  color: rgb(150, 146, 146);
+}
+.welcome{
+  margin-left: 40px;
+}
+.logo{
+  margin-left: 550px;
+}
+.first{
+  height: 300px;
+  background-color: rgb(216, 211, 211);
+}
+.header{
+  text-align: left;
+  color: white;
+  background-color: black;
+  height: 50px;
+}
+.two{
+  margin-left: 500px;
+}
+.one{
+  margin-left: 600px;
+}
+.home{
+  background-color: rgb(216, 211, 211);
+}
+.home1{
+  background-image: url(./Components/Pages/images/IMG_0764-1920x400.jpeg);
+  width: 100%;
+  height: 400px;
+}
+/* .coolest{
+  margin-left: 350px;
+} */
+.ab{
+  margin-left: 0px;
+  background-color: black;
+  color: white;
+  font-family: inherit;
+  border: none;
+  
+}
+.yo{
+  border: solid 5px;
+  border-color: white;
+  background-color: white;
+  margin-left: 300px;
+  width: 80px;
+
+}
+.b{
+  background-color: white;
+  color: rgb(78, 77, 77);
+  font-family: inherit;
+  margin-left: 0%;
+  text-align: center;
+}
+.o{
+  width: 40px;
+}
+.q{
+  border: solid 5px;
+  border-color: white;
+  background-color: white;
+  margin-left: 300px;
+  width: 80px;
+
+}
+.p{
+  color: rgb(147, 146, 146);
+  text-decoration: none;
+  
+}
+.categories{
+  border: solid 5px;
+  border-color: white;
+  background-color: white;
+  margin-left: 300px;
+  width: 80px;
+  text-align: center;
+  color: rgb(78, 77, 77);
+
+}
+.m{
+  color: rgb(147, 146, 146);
+  text-align: center;
+}
+.n{
+  color: white;
+  font-family: inherit;
+  text-decoration: solid;
+  text-align: center;
+}
+.mn{
+  height: 80px;
+}
+.end{
+  background-color: black;
+  font-family: inherit;
+  color: rgb(78, 77, 77);
+  text-align: center;
+  height: 50px;
+}
+.about{
+  background-color: rgb(216, 211, 211);
+  text-align: center;
+  color: black;
+  height: 200px;
+  align-items: center;
+  
+}
+.about1{
+  background-color: rgb(216, 211, 211);
+
+}
+.para {
+  margin-left: 100px;
+  text-align: justify;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: lighter;
+}
+.k{
+  text-align: justify;
+}
+.l{
+  width: 600px;
+  height: 600px;
+  margin-right: 200px;
+}
+.g{
+  margin-left: 200px;
+  margin-right: 200px;
+  height: 900px;
+  width: 1100px;
+  border: solid 5px;
+  border-color: white;
+  background-color: white;
+}
+.table{
+  margin-left: 242px;
+}
